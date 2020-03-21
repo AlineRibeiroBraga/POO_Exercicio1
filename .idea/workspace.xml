@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abbf0efc-76be-4e96-9e09-9a08204e3176" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHJvdsHpYkhqM6HAzpodsumwq2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="POO_Aula6_Exercicio1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abbf0efc-76be-4e96-9e09-9a08204e3176" name="Default Changelist" comment="" />
+      <created>1584490318131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584490318131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="115" width="541" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1584674887053">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="782" y="115" width="541" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1584674887053" />
+    <state width="1320" height="-12" key="GridCell.Tab.0.bottom" timestamp="1584674912505">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="-12" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584674912505" />
+    <state width="1320" height="-12" key="GridCell.Tab.0.center" timestamp="1584674912504">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="-12" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584674912504" />
+    <state width="1320" height="-12" key="GridCell.Tab.0.left" timestamp="1584674912504">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="-12" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584674912504" />
+    <state width="1320" height="-12" key="GridCell.Tab.0.right" timestamp="1584674912505">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="-12" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584674912505" />
+    <state x="0" y="27" width="728" height="741" key="find.popup" timestamp="1584674899480">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="728" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1584674899480" />
+  </component>
+</project>
